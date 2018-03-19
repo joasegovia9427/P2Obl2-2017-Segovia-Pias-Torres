@@ -1,0 +1,10 @@
+////UDE - Lic.EnInformática, Curso 2017 - Nocturno - Programación 2 - Segundo Obligatorio - Docente: Tavidian, Sirely
+////Integrantes: Pías, Richard - 1.924.591-2 ; Segovia, Joaquín - 4.739.544-4 ; Torres, Mathias - 4.223.291-4
+
+//Documento de consideraciones
+
+1) Se permitirá ingresar años negativos en las fechas.
+
+2) Nuestro sistema contempla la fecha gregoriana o sea día 1-31, mes 1-12
+
+3) Concepto de ID de la habilidad se compone por la cédula,nombre,fecha.

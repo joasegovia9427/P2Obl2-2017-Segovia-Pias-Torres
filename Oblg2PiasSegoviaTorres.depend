@@ -1,0 +1,243 @@
+# depslib dependency file v1.0
+1512931362 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\arbolsocios.cpp
+	"arbolSocios.h"
+
+1513096312 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\arbolsocios.h
+	"socio.h"
+	"listaHabilidades.h"
+
+1513095893 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\socio.h
+	"categoria.h"
+	"fecha.h"
+	"String.h"
+
+1512277205 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\categoria.h
+
+1512767370 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\fecha.h
+	"boolean.h"
+
+1512431514 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\boolean.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+
+1513095687 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\string.h
+	"boolean.h"
+
+1513096312 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\listahabilidades.h
+	"habilidad.h"
+
+1513096312 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\habilidad.h
+	"tipoHabilidad.h"
+	"String.h"
+	"fecha.h"
+
+1512291233 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\tipohabilidad.h
+	<stdio.h>
+
+1513092572 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\archivos.cpp
+	"archivos.h"
+
+1513096312 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\archivos.h
+	"arbolSocios.h"
+	"listaHabilidades.h"
+
+1512232054 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\boolean.cpp
+	"boolean.h"
+
+1512857206 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\categoria.cpp
+	"categoria.h"
+	<stdio.h>
+
+1512849078 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\fecha.cpp
+	"fecha.h"
+
+1513093258 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\habilidad.cpp
+	"habilidad.h"
+
+1513093112 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\listahabilidades.cpp
+	"listaHabilidades.h"
+
+1513095174 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\main.cpp
+	"archivos.h"
+	"menus.h"
+
+1513095568 c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+
+1513095586 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\menus.cpp
+	"menus.h"
+
+1513083503 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\socio.cpp
+	"socio.h"
+
+1513092572 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\string.cpp
+	"String.h"
+
+1512291345 source:c:\users\joaquìn\skydrive\obligatorioslenovo\p2obl2\oblg2piassegoviatorres\tipohabilidad.cpp
+	"tipoHabilidad.h"
+
+1513095981 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\arbolsocios.cpp
+	"arbolSocios.h"
+
+1513096312 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\arbolsocios.h
+	"socio.h"
+	"listaHabilidades.h"
+
+1513095893 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\socio.h
+	"categoria.h"
+	"fecha.h"
+	"String.h"
+
+1512277205 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\categoria.h
+
+1512767370 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\fecha.h
+	"boolean.h"
+
+1512431514 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\boolean.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+
+1513095687 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\string.h
+	"boolean.h"
+
+1513096312 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\listahabilidades.h
+	"habilidad.h"
+
+1513096312 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\habilidad.h
+	"tipoHabilidad.h"
+	"String.h"
+	"fecha.h"
+
+1512291233 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\tipohabilidad.h
+	<stdio.h>
+
+1513095981 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\archivos.cpp
+	"archivos.h"
+
+1513096312 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\archivos.h
+	"arbolSocios.h"
+	"listaHabilidades.h"
+
+1513095981 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\boolean.cpp
+	"boolean.h"
+
+1513095981 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\categoria.cpp
+	"categoria.h"
+	<stdio.h>
+
+1513095981 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\fecha.cpp
+	"fecha.h"
+
+1513095981 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\habilidad.cpp
+	"habilidad.h"
+
+1513096312 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\listahabilidades.cpp
+	"listaHabilidades.h"
+
+1513095174 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\main.cpp
+	"archivos.h"
+	"menus.h"
+
+1513095568 c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+
+1513095586 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\menus.cpp
+	"menus.h"
+
+1513096059 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\socio.cpp
+	"socio.h"
+
+1513095769 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\string.cpp
+	"String.h"
+
+1513095595 source:c:\respaldo\googledrive jul2017\p2obl2piassegovia\oblg2piassegoviatorres\tipohabilidad.cpp
+	"tipoHabilidad.h"
+
+1513095981 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\arbolsocios.cpp
+	"arbolSocios.h"
+
+1513110646 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\arbolsocios.h
+	"socio.h"
+	"listaHabilidades.h"
+
+1513095893 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\socio.h
+	"categoria.h"
+	"fecha.h"
+	"String.h"
+
+1512277205 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\categoria.h
+
+1512767370 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\fecha.h
+	"boolean.h"
+
+1512431514 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\boolean.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+
+1513095687 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\string.h
+	"boolean.h"
+
+1513096312 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\listahabilidades.h
+	"habilidad.h"
+
+1513096312 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\habilidad.h
+	"tipoHabilidad.h"
+	"String.h"
+	"fecha.h"
+
+1512291233 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\tipohabilidad.h
+	<stdio.h>
+
+1513095981 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\archivos.cpp
+	"archivos.h"
+
+1513096312 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\archivos.h
+	"arbolSocios.h"
+	"listaHabilidades.h"
+
+1513095981 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\boolean.cpp
+	"boolean.h"
+
+1513095981 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\categoria.cpp
+	"categoria.h"
+	<stdio.h>
+
+1513095981 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\fecha.cpp
+	"fecha.h"
+
+1513095981 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\habilidad.cpp
+	"habilidad.h"
+
+1513095586 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\menus.cpp
+	"menus.h"
+
+1513095568 c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+
+1513096059 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\socio.cpp
+	"socio.h"
+
+1513095769 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\string.cpp
+	"String.h"
+
+1513095595 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\tipohabilidad.cpp
+	"tipoHabilidad.h"
+
+1513275160 source:c:\users\joase\google drive\p2obl2piassegovia\oblg2piassegoviatorres\listahabilidades.cpp
+	"listaHabilidades.h"
+
